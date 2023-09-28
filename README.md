@@ -37,6 +37,8 @@ ini untuk host lokal
 18. menampilan hyperlink di browser
 ![foto](foto/15.png)
 
+nomor sudah urut tapi harusnya 1-5
+
 # Jawab Pertanyaaan Berikut
 1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah error ketika terjadi kesalahan penulisan tag?
 
