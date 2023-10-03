@@ -42,7 +42,7 @@ refresh halaman
 # Jawab Pertanyaaan Berikut
 1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah error ketika terjadi kesalahan penulisan tag?
 
-A: ada, ketika mengubah tag aslinya seperti <html> menjadi </ht/>
+A: ketika mengubah tag seperti <h1>kalimat<h> h1 akan mengubah kalimat menjadi tebal dan besar tetapi akan menampilkan yang tidak sesuai yang diinginkan
 
 2. Apa perbedaan dari tag <p> dengan tag <br>, berikan penjelasannya!
 
